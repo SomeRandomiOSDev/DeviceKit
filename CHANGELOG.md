@@ -14,6 +14,10 @@
 
 - Simplify GYB device definitions with named feature parameters and defaults for unsupported features, preserving the generated Swift output. ([#508](https://github.com/devicekit/DeviceKit/pull/508))
 
+### Contributors
+
+Thanks to [SomeRandomiOSDev](https://github.com/SomeRandomiOSDev) for contributing Swift 6 and strict concurrency support in [#437](https://github.com/devicekit/DeviceKit/pull/437)!
+
 ## Version 5.8.0
 
 Releasedate: 2026-03-03
